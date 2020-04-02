@@ -1,0 +1,2 @@
+model_checkpoint_path: "LIN_reg_20190407-170457.ckpt"
+all_model_checkpoint_paths: "LIN_reg_20190407-170457.ckpt"
